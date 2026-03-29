@@ -1,0 +1,32 @@
+
+
+.navbar {
+    background-color: #26eb61;
+    padding: 1rem;
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif; 
+    font-size: 1.5rem; 
+    color: #fff;
+    font-weight: 400;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 30%;
+
+}
+
+.navbar-brand:hover {
+    color: #ccc;
+}
+
+.navbar-nav .nav-link {
+    color: #050404;
+    padding: 0.5rem 1rem; 
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ddd; 
+}
+
