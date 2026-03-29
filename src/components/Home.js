@@ -8,7 +8,7 @@ const Home = () => {
             <div className="profile-text">
                 <h2>Vishnu Prasad S</h2>
                 <p>
-                    Motivated software developer fresher with skills in C#, VB.NET, JavaScript, and MERN stack. Experienced in building web applications, REST APIs, and working with SQL Server and MongoDB. Passionate about problem-solving and eager to contribute to innovative projects while continuously learning and growing.
+                    Motivated software developer s with skills in C#, VB.NET, JavaScript, and MERN stack. Experienced in building web applications, REST APIs, and working with SQL Server and MongoDB. Passionate about problem-solving and eager to contribute to innovative projects while continuously learning and growing.
                 </p>
             </div>
         </div>
